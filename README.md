@@ -146,8 +146,14 @@ You are more than welcome to use, modify, and distribute this project with appro
 
 ---
 
-## Author
-**Astha Dubey**   
-Electronics and Telecommunication   
-Interests: Machine Learning, AI, and Computer Vision   
-linkedin.com/in/astha-dubey
+## 👨‍💻 Author
+
+### Mehul
+
+**Final Year B.Tech Computer Science Student**  
+Delhi Technological University (DTU)
+
+### 🌐 Connect with me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mehul-320a57202
+- 💻 **GitHub:** https://github.com/Mehul-142005
