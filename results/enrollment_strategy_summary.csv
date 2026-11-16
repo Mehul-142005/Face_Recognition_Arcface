@@ -1,0 +1,7 @@
+metric,single_image_mean,single_image_std,single_image_min,single_image_max,multi_image
+TAR,0.915625,0.04086467759569381,0.8125,1.0,0.9375
+FRR,0.084375,0.04086467759569381,0.0,0.1875,0.0625
+FAR,0.0,0.0,0.0,0.0,0.0
+unknown_rejection,1.0,0.0,1.0,1.0,1.0
+rank1_accuracy,1.0,0.0,1.0,1.0,1.0
+validation_balanced_accuracy,1.0,0.0,1.0,1.0,1.0

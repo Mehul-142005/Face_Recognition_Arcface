@@ -1,3 +1,4 @@
+
 # ===============================
 # Python
 # ===============================
@@ -16,7 +17,6 @@ env/
 # ===============================
 data/
 datasets/
-*.csv
 *.npy
 *.npz
 
@@ -30,6 +30,7 @@ Thumbs.db
 # Logs
 # ===============================
 *.log
+install_log.txt
 
 # ===============================
 # Node / React
@@ -42,6 +43,8 @@ dist/
 # Environment & Secrets
 # ===============================
 .env
+.env.*
+!.env.example
 
 # ===============================
 # IDEs / Editors
@@ -50,6 +53,15 @@ dist/
 .idea/
 
 # ===============================
-# Jupyter (if ever used)
+# Jupyter
 # ===============================
 .ipynb_checkpoints/
+
+# ===============================
+# Temporary and Backup Files
+# ===============================
+*.tmp
+*.bak
+backup_before_research_changes/
+# Face recognition biometric templates
+core_face_recognition/face_templates.csv

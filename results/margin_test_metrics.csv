@@ -1,0 +1,2 @@
+margin_threshold,known_count,unknown_count,TAR,FRR,FAR,unknown_rejection,rank1_accuracy,balanced_accuracy
+0.22454171907156706,18,6,1.0,0.0,0.0,1.0,1.0,1.0

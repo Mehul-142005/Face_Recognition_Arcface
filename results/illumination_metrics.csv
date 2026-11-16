@@ -1,0 +1,3 @@
+condition,total_images,known_images,unknown_images,detection_failures,detection_failure_rate,threshold_TAR,threshold_FRR,threshold_FAR,threshold_unknown_rejection,threshold_rank1_accuracy,margin_TAR,margin_FRR,margin_FAR,margin_unknown_rejection,margin_rank1_accuracy
+low_illumination,24,18,6,0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0
+high_illumination,24,18,6,0,0.0,1.0,0.0,0.0,1.0,1.0,0.9444444444444444,0.05555555555555558,0.0,1.0,1.0
